@@ -7,7 +7,7 @@ Version: 1.0
 Release: 1
 License: GPL
 Group: Unspecified
-Source: https://github.com/baoboa/test-copr.git
+Source: https://github.com/baoboa/test-copr/
 URL: https://github.com/baoboa/test-copr/
 Distribution: Unspecified
 Vendor: Unspecified
