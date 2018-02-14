@@ -15,3 +15,6 @@ Packager: baoboa <baoboa@fedorapeople.org>
 
 %description
 Boggus package to test automatized build in fedora copr
+
+%doc README.md 
+%doc LICENCE
