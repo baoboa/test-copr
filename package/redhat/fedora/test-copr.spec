@@ -4,7 +4,7 @@
 Summary: a test package for fedora copr 
 Name: test-copr
 Version: 1.0
-Release: 2
+Release: 3
 License: GPL
 Group: Unspecified
 Source: https://github.com/baoboa/test-copr/
